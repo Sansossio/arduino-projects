@@ -1,0 +1,6 @@
+{
+    "sketch": "hcsr501-plus-relay\\hcsr501-plus-relay.ino",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "COM3"
+}
