@@ -1,5 +1,5 @@
-#define sensorPin 2
-#define relayPin 3
+#define sensorPin 8
+#define relayPin 7
 
 int lastSensorValue;
 
